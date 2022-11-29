@@ -1,4 +1,4 @@
-[
+export const  data = [
 {
 "id":  3 ,
 "title":  "Matrix | So Silver | Shampoing | Pour cheveux gris et blancs | Anti-reflets jaunes &amp; Soigne | 300ml" ,
