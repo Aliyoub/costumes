@@ -1,0 +1,17 @@
+@media screen and (max-width: 1200px) {
+  .product-container {
+    background-color: #eee;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  div.container div.row span.product-description.mt-5.d-block {
+    color: #e11e35;
+    font-size: 24px;
+    font-weight: 700;
+  }
+  span.product-title {
+    font-size: 17px;
+    font-weight: 700;
+  }
+}
